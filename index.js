@@ -13,7 +13,7 @@ function addBurger(){
     }
 }
 function changeFeaturedDrink(){
-    featuredDrink = "The Java Shake";
+    featuredDrink = "The JavaShake";
    
 }
 
